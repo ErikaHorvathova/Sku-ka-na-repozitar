@@ -1,0 +1,1 @@
+print ("Vloženie do Gitu")
